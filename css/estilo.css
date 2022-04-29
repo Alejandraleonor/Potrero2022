@@ -1,0 +1,11 @@
+h1{color:#71c55b;background-color: #005c00;font-family: futura; text-align: center;text-decoration: underline;}
+h2{color:#71c55b;background-color: #005c00;font-family: futura; text-align: center;text-decoration: underline;}
+body{
+  background-image: url(fondo.jpg);
+  margin: 0;
+  padding: 0;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  width: auto;height: auto;
+  }
